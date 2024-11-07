@@ -15,13 +15,14 @@ Welcome to my **Portfolio Website**! This is where I showcase my projects, skill
 - **Frontend**: 
   - Html 🖊
   - CSS 🎨
+  - Javascript ⚒
 - **Tools**:
   - Vs Code for coding 💻
   - Vercel App for deployment 🚀
 
 ## Live Demo 🌐
 
-You can view the live version here : [https://pratham-singh.vercel.app](https://pratham-singh.vercel.app)
+You can view the live version here : [https://pratham-singh-2.vercel.app/](https://pratham-singh-2.vercel.app/)
 
 
 ## Acknowledgments 🙏
